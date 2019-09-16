@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Marcela Alfaro Córdoba
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Statistics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Universidad de Costa Rica
+  url: "https://www.ucr.ac.cr"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include spatiotemporal statistical modeling, functional data analysis, computational statistics and reproducible science.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Spatiotemporal Statistical Modeling
+- Functional Data Analysis
+- Computational Statistics
+- Reproducible Science
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Ph.D. in Statistics
+    institution: North Carolina State University
+    year: 2017
+  - course: M.Sc. in Statistics
+    institution: Iowa State University
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: B.Sc. in Statistics
+    institution: Universidad de Costa Rica
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,13 +48,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Fichulina
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=8Viy0j4AAAAJ&hl
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/malfaro2
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -65,11 +66,11 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Assistant Professor of statistics at the [School of Statistics](http://estadistica.ucr.ac.cr/), University of Costa Rica. She is interested in developing novel statistical methods to address scientific questions related to the environment. Her applications areas include climate, weather forecast, and veterinary.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Marcela is committed to practicing open science and she believes in mentoring young scientists. Her volunteering activities include being a co-chair of [CODATA-RDA Schools of Data Science](http://www.codata.org/working-groups/research-data-science-summer-schools), organizing the [R-ladies](https://rladies.org/) chapter in San José and being part of the organizing committee of [ConectaR2019](http://www.conectar2019.ucr.ac.cr/), the first R Users Conference in Central America.
