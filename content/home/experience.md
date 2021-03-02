@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "San José, Costa Rica"
   date_start = "2017-06-01"
-  date_end = ""
+  date_end = "2021-02-28"
   description = """
   Responsibilities include:
   
