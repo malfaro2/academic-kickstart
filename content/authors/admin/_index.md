@@ -25,6 +25,7 @@ interests:
 - Functional Data Analysis
 - Computational Statistics
 - Reproducible Science
+- Statistics and Data Science Education
 
 education:
   courses:
