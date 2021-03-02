@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Statistics
+role: Teaching Assistant Professor of Statistics
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad de Costa Rica
-  url: "https://www.ucr.ac.cr"
+- name: University of California, Santa Cruz
+  url: "https://www.ucsc.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include spatiotemporal statistical modeling, functional data analysis, computational statistics and reproducible science.
+bio: My research interests include statistics and data science education, spatiotemporal statistical modeling, functional data analysis, computational statistics and reproducible science.
 
 interests:
 - Spatiotemporal Statistical Modeling
