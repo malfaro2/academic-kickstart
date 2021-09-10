@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Teaching Assistant Professor of Statistics
+role: Assistant Teaching Professor of Statistics
 
 # Organizations/Affiliations
 organizations:
@@ -72,6 +72,6 @@ email: ""
 # - Visitors
 ---
 
-Teaching Assistant Professor at the [University of California, Santa Cruz](https://www.soe.ucsc.edu/news/baskin-engineering-announces-nine-new-faculty-members). She is interested in developing novel statistical methods to address scientific questions related to the environment, and turning those experiences of interdisciplinary collaboration into teaching methods for statistics and data science. Her areas of application include climate models, biophysics, spectrophotometry, among others.
+Assistant Teaching Professor at the [University of California, Santa Cruz](https://www.soe.ucsc.edu/news/baskin-engineering-announces-nine-new-faculty-members). She is interested in developing novel statistical methods to address scientific questions related to the environment, and turning those experiences of interdisciplinary collaboration into teaching methods for statistics and data science. Her areas of application include climate models, biophysics, spectrophotometry, among others.
 
 Marcela is committed to practicing open science and she believes in mentoring young scientists. Her volunteering activities include being a co-chair of [CODATA-RDA Schools of Data Science](https://www.datascienceschools.org/), being part of the organizing committee of [ConectaR2019](https://www.conectar2019.org/) and [ConectaR2021](https://conectar2021.github.io/ConectaR2021/), the first R Users Conference in Central America. She is a founding member of the [R-ladies](https://rladies.org/) chapter in San José, Costa Rica.
